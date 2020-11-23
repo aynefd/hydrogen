@@ -1,0 +1,8 @@
+version: '3.7'
+
+services:
+  hydrogen:
+    build:
+      context: .
+    ports:
+      - "3001:80"
