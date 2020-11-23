@@ -18,4 +18,6 @@ cd hydrogen
 docker-compose up -d
 ```
 
-✨ Enjoy!
+Hosted ✨live✨ [here](http://aynefdesdev.com/hydrogen/)
+
+👩🏽‍🍳 Enjoy!
